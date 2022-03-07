@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.01fa1d48.chunk.css",
-    "main.js": "/static/js/main.5feb83e2.chunk.js",
-    "main.js.map": "/static/js/main.5feb83e2.chunk.js.map",
+    "main.js": "/static/js/main.fd4cd0bd.chunk.js",
+    "main.js.map": "/static/js/main.fd4cd0bd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f8f1147d.js",
     "runtime-main.js.map": "/static/js/runtime-main.f8f1147d.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
@@ -25,20 +25,16 @@
     "static/media/9.761c0ba8.png": "/static/media/9.761c0ba8.png",
     "static/media/Anupama.de300a2d.pdf": "/static/media/Anupama.de300a2d.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
-    "static/media/ccgc.81bde937.jfif": "/static/media/ccgc.81bde937.jfif",
     "static/media/style.css": "/static/media/pre.d4812f51.svg",
     "static/media/i.477ccc1d.jfif": "/static/media/i.477ccc1d.jfif",
-    "static/media/j.4626e703.png": "/static/media/j.4626e703.png",
     "static/media/r.b2ef3d67.jfif": "/static/media/r.b2ef3d67.jfif",
-    "static/media/s.da4606d5.png": "/static/media/s.da4606d5.png",
-    "static/media/sa.1aa4aeeb.jfif": "/static/media/sa.1aa4aeeb.jfif",
-    "static/media/vt.3f856f53.jfif": "/static/media/vt.3f856f53.jfif"
+    "static/media/s.da4606d5.png": "/static/media/s.da4606d5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f8f1147d.js",
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.c4efa32c.chunk.js",
     "static/css/main.01fa1d48.chunk.css",
-    "static/js/main.5feb83e2.chunk.js"
+    "static/js/main.fd4cd0bd.chunk.js"
   ]
 }
